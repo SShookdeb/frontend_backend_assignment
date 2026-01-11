@@ -1,0 +1,45 @@
+{
+  "_id": "6963901bcabf2d146120ebd4",
+  "name": "Test User",
+  "email": "test@gmail.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NjM5MDFiY2FiZjJkMTQ2MTIwZWJkNCIsImlhdCI6MTc2ODE1Mjc5MiwiZXhwIjoxNzcwNzQ0NzkyfQ.gOpvBLHnh48ukdbTUAQx_4Zqb4PBe69wjGEeKwEOw5c"
+}
+
+{
+  "title": "My First Task",
+  "description": "Testing backend task creation",
+  "status": "pending",
+  "user": "6963901bcabf2d146120ebd4",
+  "_id": "6963df44367efb87af44c4bb",
+  "createdAt": "2026-01-11T17:35:00.079Z",
+  "updatedAt": "2026-01-11T17:35:00.079Z",
+  "__v": 0
+}
+
+[
+  {
+    "_id": "6963df44367efb87af44c4bb",
+    "title": "My First Task",
+    "description": "Testing backend task creation",
+    "status": "pending",
+    "user": "6963901bcabf2d146120ebd4",
+    "createdAt": "2026-01-11T17:35:00.079Z",
+    "updatedAt": "2026-01-11T17:35:00.079Z",
+    "__v": 0
+  }
+]
+
+{
+  "_id": "6963df44367efb87af44c4bb",
+  "title": "My First Task",
+  "description": "Testing backend task creation",
+  "status": "completed",
+  "user": "6963901bcabf2d146120ebd4",
+  "createdAt": "2026-01-11T17:35:00.079Z",
+  "updatedAt": "2026-01-11T17:37:25.236Z",
+  "__v": 0
+}
+
+{
+  "message": "Task deleted successfully"
+}
